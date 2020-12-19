@@ -100,7 +100,7 @@
     "po-catalog-loader": "2.0.0",
     "prism-sentry": "^1.0.0",
     "prop-types": "^15.6.0",
-    "query-string": "6.6.0",
+    "query-string": "6.13.7",
     "react": "16.14.0",
     "react-autosize-textarea": "7.1.0",
     "react-bootstrap": "^0.32.0",
