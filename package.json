@@ -147,7 +147,7 @@
     "@storybook/addon-options": "^5.3.3",
     "@storybook/addon-storysource": "^5.3.3",
     "@storybook/addons": "^5.3.3",
-    "@storybook/react": "^5.3.3",
+    "@storybook/react": "^6.2.0",
     "@visual-snapshot/jest": "^2.0.2",
     "babel-eslint": "^10.0.3",
     "babel-gettext-extractor": "^4.1.3",
